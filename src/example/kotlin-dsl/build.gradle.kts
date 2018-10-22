@@ -4,7 +4,7 @@ plugins {
     // end::plugins[]
     `build-scan`
 // tag::plugins[]
-    id("org.asciidoctor.convert") version "1.5.6" apply false // <1>
+    id("org.asciidoctor.convert") version "1.5.9" apply false // <1>
 }
 // end::plugins[]
 
